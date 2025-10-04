@@ -22,17 +22,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{094B5CBE-F
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "temperatura", "temperatura", "{F3813E79-D711-42C4-9141-2FA320355FE0}"
 	ProjectSection(SolutionItems) = preProject
-		sample.json = sample.json
+		temperatura.json = temperatura.json
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "precipitaciones", "precipitaciones", "{4AC98C33-8B95-413F-BF97-D77A4F408F2B}"
 	ProjectSection(SolutionItems) = preProject
-		sample.json = sample.json
+		precipitaciones.json = precipitaciones.json
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tiempo", "tiempo", "{BFCE9A3A-06B0-4279-AAF0-658C670CD942}"
 	ProjectSection(SolutionItems) = preProject
-		sample.json = sample.json
+		tiempo.json = tiempo.json
 	EndProjectSection
 EndProject
 Global

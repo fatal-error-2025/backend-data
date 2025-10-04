@@ -12,9 +12,9 @@ def load_json(filename):
     return []
 
 # Cargar datos de los tres JSON
-temperatura = load_json("sample.json")
-tiempo = load_json("sample.json")
-precipitaciones = load_json("sample.json")
+temperatura = load_json("temperatura.json")
+tiempo = load_json("tiempo.json")
+precipitaciones = load_json("precipitaciones.json")
 
 @app.route("/")
 def index():

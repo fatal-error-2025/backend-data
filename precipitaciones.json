@@ -1,0 +1,2557 @@
+[
+  {
+    "date": "2025-01-01T00:00:00",
+    "value": 0.5793433810918377,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-02T00:00:00",
+    "value": 1.7736189670425173,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-03T00:00:00",
+    "value": 0.406040979221283,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-04T00:00:00",
+    "value": 3.8426285892265915,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-05T00:00:00",
+    "value": 0.357818391308138,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-06T00:00:00",
+    "value": 0.34983193400145096,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-07T00:00:00",
+    "value": 2.348274053930406,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-08T00:00:00",
+    "value": 4.3686028988593595,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-09T00:00:00",
+    "value": 0.663980118185339,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-10T00:00:00",
+    "value": 0.41299223871051516,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-11T00:00:00",
+    "value": 0.3346944296371006,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-12T00:00:00",
+    "value": 0.3222258233689602,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-13T00:00:00",
+    "value": 0.28054333136014,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-14T00:00:00",
+    "value": 0.6165650142574872,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-15T00:00:00",
+    "value": 0.27614251700753234,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-16T00:00:00",
+    "value": 3.66361651150757,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-17T00:00:00",
+    "value": 0.6859874054053237,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-18T00:00:00",
+    "value": 0.316377098967908,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-19T00:00:00",
+    "value": 1.394201168784447,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-20T00:00:00",
+    "value": 0.29497750113960225,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-21T00:00:00",
+    "value": 0.33410772445575676,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-22T00:00:00",
+    "value": 0.3286711950912776,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-23T00:00:00",
+    "value": 0.3255172644317083,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-24T00:00:00",
+    "value": 0.3269799704599309,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-25T00:00:00",
+    "value": 0.4525183820011599,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-26T00:00:00",
+    "value": 0.24068144244623785,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-27T00:00:00",
+    "value": 0.25922314086713893,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-28T00:00:00",
+    "value": 0.34145626464410483,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-29T00:00:00",
+    "value": 0.33793373553766504,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-30T00:00:00",
+    "value": 0.22749188734680797,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-01-31T00:00:00",
+    "value": 0.26786020152384465,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-01T00:00:00",
+    "value": 0.23535716206549537,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-02T00:00:00",
+    "value": 0.23435150042382985,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-03T00:00:00",
+    "value": 0.40237889004987776,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-04T00:00:00",
+    "value": 0.7490119037883922,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-05T00:00:00",
+    "value": 0.3810409679353879,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-06T00:00:00",
+    "value": 1.2021861428048544,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-07T00:00:00",
+    "value": 0.40733268100549985,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-08T00:00:00",
+    "value": 0.6241377466898173,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-09T00:00:00",
+    "value": 1.4057321112136527,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-10T00:00:00",
+    "value": 4.977815528697668,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-11T00:00:00",
+    "value": 0.35718650806912067,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-12T00:00:00",
+    "value": 5.5149556430714135,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-13T00:00:00",
+    "value": 0.36793524408696643,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-14T00:00:00",
+    "value": 0.6012309126804524,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-15T00:00:00",
+    "value": 0.1892949754191844,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-16T00:00:00",
+    "value": 0.4889513101464755,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-17T00:00:00",
+    "value": 0.2624072892455919,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-18T00:00:00",
+    "value": 0.24319018438021064,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-19T00:00:00",
+    "value": 1.2933780848827894,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-20T00:00:00",
+    "value": 0.3329717539558415,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-21T00:00:00",
+    "value": 5.375677398161409,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-22T00:00:00",
+    "value": 3.73374536602428,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-23T00:00:00",
+    "value": 2.9196009080406555,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-24T00:00:00",
+    "value": 0.15888926784266466,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-25T00:00:00",
+    "value": 0.4759165665631711,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-26T00:00:00",
+    "value": 0.15389810180455127,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-27T00:00:00",
+    "value": 0.15427547106587275,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-02-28T00:00:00",
+    "value": 0.5588758569937929,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-01T00:00:00",
+    "value": 0.2655255141794564,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-02T00:00:00",
+    "value": 3.244645595524405,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-03T00:00:00",
+    "value": 2.6339820149435194,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-04T00:00:00",
+    "value": 0.5194054864534711,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-05T00:00:00",
+    "value": 0.37169820403621445,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-06T00:00:00",
+    "value": 0.4572546981155524,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-07T00:00:00",
+    "value": 0.5429346197518202,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-08T00:00:00",
+    "value": 1.8050103245045999,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-09T00:00:00",
+    "value": 2.4867935305071516,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-10T00:00:00",
+    "value": 0.462289991258781,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-11T00:00:00",
+    "value": 3.665797003657871,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-12T00:00:00",
+    "value": 3.384557472392265,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-13T00:00:00",
+    "value": 2.857074356747993,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-14T00:00:00",
+    "value": 4.691888649418415,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-15T00:00:00",
+    "value": 0.311579127821179,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-16T00:00:00",
+    "value": 1.7793128257031139,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-17T00:00:00",
+    "value": 2.23103354064187,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-18T00:00:00",
+    "value": 0.9678583875824287,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-19T00:00:00",
+    "value": 0.7183308564351831,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-20T00:00:00",
+    "value": 0.4843052338390692,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-21T00:00:00",
+    "value": 1.4023116343491633,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-22T00:00:00",
+    "value": 0.2795327173128274,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-23T00:00:00",
+    "value": 0.4355719018404308,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-24T00:00:00",
+    "value": 1.6533961893111273,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-25T00:00:00",
+    "value": 0.5100187436761101,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-26T00:00:00",
+    "value": 2.633601190474394,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-27T00:00:00",
+    "value": 0.2683231198132152,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-28T00:00:00",
+    "value": 0.28020152140005306,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-29T00:00:00",
+    "value": 2.6466668215869156,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-30T00:00:00",
+    "value": 1.5568883295295741,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-03-31T00:00:00",
+    "value": 0.40079107224165994,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-01T00:00:00",
+    "value": 2.7264229441310697,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-02T00:00:00",
+    "value": 0.10045935439364478,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-03T00:00:00",
+    "value": 0.09814416214992595,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-04T00:00:00",
+    "value": 0.06953077742469467,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-05T00:00:00",
+    "value": 0.09462872690778935,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-06T00:00:00",
+    "value": 0.07667823790356766,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-07T00:00:00",
+    "value": 0.1074161452812548,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-08T00:00:00",
+    "value": 0.3288207203771747,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-09T00:00:00",
+    "value": 1.9406540264969823,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-10T00:00:00",
+    "value": 0.34021368845094196,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-11T00:00:00",
+    "value": 4.003786335745303,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-12T00:00:00",
+    "value": 2.6129633694640786,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-13T00:00:00",
+    "value": 2.9523723640303388,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-14T00:00:00",
+    "value": 0.5766103790730442,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-15T00:00:00",
+    "value": 0.08030814941838113,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-16T00:00:00",
+    "value": 0.3236739130202666,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-17T00:00:00",
+    "value": 0.07725734045387272,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-18T00:00:00",
+    "value": 0.0763523411431567,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-19T00:00:00",
+    "value": 4.026576843948327,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-20T00:00:00",
+    "value": 3.9340920451062678,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-21T00:00:00",
+    "value": 1.8936425238752967,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-22T00:00:00",
+    "value": 4.735074106669022,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-23T00:00:00",
+    "value": 2.1778819847072897,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-24T00:00:00",
+    "value": 2.574221059696534,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-25T00:00:00",
+    "value": 6.063816353531936,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-26T00:00:00",
+    "value": 3.571994412776653,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-27T00:00:00",
+    "value": 2.733205245102999,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-28T00:00:00",
+    "value": 5.504260570549574,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-29T00:00:00",
+    "value": 2.1880384745232124,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-04-30T00:00:00",
+    "value": 0.6677380813704901,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-01T00:00:00",
+    "value": 0.11308922445990781,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-02T00:00:00",
+    "value": 0.5279987662564744,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-03T00:00:00",
+    "value": 0.6065583256478669,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-04T00:00:00",
+    "value": 0.3431539223314815,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-05T00:00:00",
+    "value": 0.11528501124260442,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-06T00:00:00",
+    "value": 0.11300260288430845,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-07T00:00:00",
+    "value": 0.0959484178520099,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-08T00:00:00",
+    "value": 0.10861527268780384,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-09T00:00:00",
+    "value": 3.8271136858598354,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-10T00:00:00",
+    "value": 0.11463565648953236,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-11T00:00:00",
+    "value": 0.3437331563697129,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-12T00:00:00",
+    "value": 0.25470820665137217,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-13T00:00:00",
+    "value": 3.698496790771417,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-14T00:00:00",
+    "value": 5.2810325625601955,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-15T00:00:00",
+    "value": 0.19635772807052299,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-16T00:00:00",
+    "value": 0.24299347122078555,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-17T00:00:00",
+    "value": 0.09744520338177583,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-18T00:00:00",
+    "value": 0.34601084237703883,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-19T00:00:00",
+    "value": 0.11301016288145123,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-20T00:00:00",
+    "value": 0.11270499663288118,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-21T00:00:00",
+    "value": 0.080657880716628,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-22T00:00:00",
+    "value": 3.162044148741514,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-23T00:00:00",
+    "value": 6.200500472665589,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-24T00:00:00",
+    "value": 2.8267216645421787,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-25T00:00:00",
+    "value": 1.1945420403763933,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-26T00:00:00",
+    "value": 0.8334488885871965,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-27T00:00:00",
+    "value": 0.1217278680499323,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-28T00:00:00",
+    "value": 0.36163162443008623,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-29T00:00:00",
+    "value": 1.9050164153021547,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-30T00:00:00",
+    "value": 4.522074505348185,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-05-31T00:00:00",
+    "value": 1.6535787912435622,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-01T00:00:00",
+    "value": 8.39384605068252,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-02T00:00:00",
+    "value": 0.7472366261517854,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-03T00:00:00",
+    "value": 5.814980716862268,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-04T00:00:00",
+    "value": 0.7120871205345034,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-05T00:00:00",
+    "value": 0.733336626787324,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-06T00:00:00",
+    "value": 0.18905199306506004,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-07T00:00:00",
+    "value": 0.511887433195979,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-08T00:00:00",
+    "value": 0.6898455304997546,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-09T00:00:00",
+    "value": 0.1675430743070701,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-10T00:00:00",
+    "value": 0.15402114050249766,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-11T00:00:00",
+    "value": 6.8651898969145115,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-12T00:00:00",
+    "value": 4.783822806788908,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-13T00:00:00",
+    "value": 0.10235942428711584,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-14T00:00:00",
+    "value": 0.4792819993470526,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-15T00:00:00",
+    "value": 0.8351387697992847,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-16T00:00:00",
+    "value": 3.5490643454311197,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-17T00:00:00",
+    "value": 7.177800811904311,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-18T00:00:00",
+    "value": 1.445392908770395,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-19T00:00:00",
+    "value": 1.6224749515901635,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-20T00:00:00",
+    "value": 5.273305619619989,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-21T00:00:00",
+    "value": 3.502227440911056,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-22T00:00:00",
+    "value": 0.0,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-23T00:00:00",
+    "value": 0.0,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-24T00:00:00",
+    "value": 0.0,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-25T00:00:00",
+    "value": 0.00386922864585576,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-26T00:00:00",
+    "value": 0.2805075942330804,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-27T00:00:00",
+    "value": 0.8950132560202476,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-28T00:00:00",
+    "value": 0.0,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-29T00:00:00",
+    "value": 3.3724982107428745,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-06-30T00:00:00",
+    "value": 0.032686618328592015,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-01T00:00:00",
+    "value": 0.08006686839064144,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-02T00:00:00",
+    "value": 0.14639406144029032,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-03T00:00:00",
+    "value": 8.359921818454335,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-04T00:00:00",
+    "value": 0.16061836472388988,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-05T00:00:00",
+    "value": 0.1337750896901566,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-06T00:00:00",
+    "value": 7.236162755346941,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-07T00:00:00",
+    "value": 0.15380728900414734,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-08T00:00:00",
+    "value": 0.1425554983081508,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-09T00:00:00",
+    "value": 0.1609437143318066,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-10T00:00:00",
+    "value": 0.22964216102031815,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-11T00:00:00",
+    "value": 0.31804799644989185,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-12T00:00:00",
+    "value": 0.1806462745304444,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-13T00:00:00",
+    "value": 0.1795491785149726,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-14T00:00:00",
+    "value": 0.15644679355267574,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-15T00:00:00",
+    "value": 0.24262213746428724,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-16T00:00:00",
+    "value": 0.24411652520569524,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-17T00:00:00",
+    "value": 0.16006714152685833,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-18T00:00:00",
+    "value": 0.15374741516832907,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-19T00:00:00",
+    "value": 0.16722772749600706,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-20T00:00:00",
+    "value": 0.8688515566648589,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-21T00:00:00",
+    "value": 0.17530528060435863,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-22T00:00:00",
+    "value": 0.17467154814271413,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-23T00:00:00",
+    "value": 0.1628856647174601,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-24T00:00:00",
+    "value": 0.4713480883321766,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-25T00:00:00",
+    "value": 1.0553471110206016,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-26T00:00:00",
+    "value": 2.054962031035492,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-27T00:00:00",
+    "value": 0.6463318126476338,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-28T00:00:00",
+    "value": 0.20055034956087658,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-29T00:00:00",
+    "value": 0.20600894270259615,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-30T00:00:00",
+    "value": 0.2074252086121849,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-07-31T00:00:00",
+    "value": 1.337881618115895,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-01T00:00:00",
+    "value": 0.22257749688854514,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-02T00:00:00",
+    "value": 0.2802615587396902,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-03T00:00:00",
+    "value": 0.5080213470103777,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-04T00:00:00",
+    "value": 0.7048629533709652,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-05T00:00:00",
+    "value": 0.22813015660293248,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-06T00:00:00",
+    "value": 0.25625259201695183,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-07T00:00:00",
+    "value": 0.4470624508790211,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-08T00:00:00",
+    "value": 0.2171896131970036,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-09T00:00:00",
+    "value": 3.8870026965376923,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-10T00:00:00",
+    "value": 0.20769458343796565,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-11T00:00:00",
+    "value": 4.717421995570559,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-12T00:00:00",
+    "value": 0.5135580636362365,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-13T00:00:00",
+    "value": 0.4205101026174295,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-14T00:00:00",
+    "value": 0.9875073730241026,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-15T00:00:00",
+    "value": 0.2349166051944097,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-16T00:00:00",
+    "value": 0.2631250054011296,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-17T00:00:00",
+    "value": 0.2535382576962519,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-18T00:00:00",
+    "value": 0.3981606081147479,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-19T00:00:00",
+    "value": 0.40743272663380603,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-20T00:00:00",
+    "value": 0.25405868089497674,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-21T00:00:00",
+    "value": 0.2555727033141459,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-22T00:00:00",
+    "value": 0.2608450972112396,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-23T00:00:00",
+    "value": 0.26162470097874835,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-24T00:00:00",
+    "value": 6.268277215597712,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-25T00:00:00",
+    "value": 0.4548841582935033,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-26T00:00:00",
+    "value": 1.3994627567042823,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-27T00:00:00",
+    "value": 0.2418034865677972,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-28T00:00:00",
+    "value": 0.24520001187892526,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-29T00:00:00",
+    "value": 2.259219717619188,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-30T00:00:00",
+    "value": 0.7247610021685109,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-08-31T00:00:00",
+    "value": 0.49484547993060946,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-01T00:00:00",
+    "value": 6.634406248036576,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-02T00:00:00",
+    "value": 7.032647722326631,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-03T00:00:00",
+    "value": 6.056518089973734,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-04T00:00:00",
+    "value": 0.022804980303298972,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-05T00:00:00",
+    "value": 1.801413312732177,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-06T00:00:00",
+    "value": 0.04164362578332115,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-07T00:00:00",
+    "value": 0.5297675109301894,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-08T00:00:00",
+    "value": 0.7577258500926952,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-09T00:00:00",
+    "value": 2.4426834047388604,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-10T00:00:00",
+    "value": 0.35440079517032597,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-11T00:00:00",
+    "value": 2.602969994152069,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-12T00:00:00",
+    "value": 5.824763313376122,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-13T00:00:00",
+    "value": 3.6562301953368266,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-14T00:00:00",
+    "value": 3.791868117319554,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-15T00:00:00",
+    "value": 2.5410090905027336,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-16T00:00:00",
+    "value": 0.646810385064449,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-17T00:00:00",
+    "value": 0.5895186669146055,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-18T00:00:00",
+    "value": 1.0208247230907828,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-19T00:00:00",
+    "value": 0.8830565977335118,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-20T00:00:00",
+    "value": 0.473143622824676,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-21T00:00:00",
+    "value": 1.5484086342218988,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-22T00:00:00",
+    "value": 1.215642252154288,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-23T00:00:00",
+    "value": 0.12039511894797132,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-24T00:00:00",
+    "value": 0.3352737080871916,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-25T00:00:00",
+    "value": 0.43516969367380576,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-26T00:00:00",
+    "value": 0.10823989390706366,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-27T00:00:00",
+    "value": 0.12387583125741954,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-28T00:00:00",
+    "value": 0.1261845955822546,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-29T00:00:00",
+    "value": 0.29325845109240767,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-09-30T00:00:00",
+    "value": 0.1168279650133405,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-01T00:00:00",
+    "value": 0.26560607393871993,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-02T00:00:00",
+    "value": 0.2704108131718595,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-03T00:00:00",
+    "value": 3.9996468143127064,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-04T00:00:00",
+    "value": 0.2569232136344193,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-05T00:00:00",
+    "value": 0.4232156678691801,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-06T00:00:00",
+    "value": 0.27500037759118684,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-07T00:00:00",
+    "value": 0.2761353725778473,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-08T00:00:00",
+    "value": 0.2798124537513159,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-09T00:00:00",
+    "value": 0.3496551430055126,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-10T00:00:00",
+    "value": 0.5733673030549458,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-11T00:00:00",
+    "value": 0.6385749975066473,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-12T00:00:00",
+    "value": 0.37404175622532826,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-13T00:00:00",
+    "value": 0.418821236318551,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-14T00:00:00",
+    "value": 1.1065913435714405,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-15T00:00:00",
+    "value": 0.5841112673054927,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-16T00:00:00",
+    "value": 1.4659489271492956,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-17T00:00:00",
+    "value": 1.582648012584351,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-18T00:00:00",
+    "value": 1.9378657796096326,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-19T00:00:00",
+    "value": 7.027076882871714,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-20T00:00:00",
+    "value": 4.1079447646946,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-21T00:00:00",
+    "value": 2.2525018334146854,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-22T00:00:00",
+    "value": 1.5061263339243607,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-23T00:00:00",
+    "value": 0.4357127262736622,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-24T00:00:00",
+    "value": 0.41791834637847575,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-25T00:00:00",
+    "value": 0.4776263077167228,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-26T00:00:00",
+    "value": 0.364257332969327,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-27T00:00:00",
+    "value": 0.4083150661329976,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-28T00:00:00",
+    "value": 0.42757263859564254,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-29T00:00:00",
+    "value": 5.668621811012812,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-30T00:00:00",
+    "value": 2.8872268232230596,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-10-31T00:00:00",
+    "value": 4.227593759484237,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-01T00:00:00",
+    "value": 6.0571674264300555,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-02T00:00:00",
+    "value": 1.484260316691621,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-03T00:00:00",
+    "value": 4.937534992650912,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-04T00:00:00",
+    "value": 0.0,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-05T00:00:00",
+    "value": 0.0,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-06T00:00:00",
+    "value": 0.0,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-07T00:00:00",
+    "value": 0.5566836512631217,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-08T00:00:00",
+    "value": 0.41783323192092525,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-09T00:00:00",
+    "value": 1.811825182560715,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-10T00:00:00",
+    "value": 0.0,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-11T00:00:00",
+    "value": 4.769862775311758,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-12T00:00:00",
+    "value": 5.1500408080047375,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-13T00:00:00",
+    "value": 0.5872161735333813,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-14T00:00:00",
+    "value": 0.4525856699171916,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-15T00:00:00",
+    "value": 1.0478299156666104,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-16T00:00:00",
+    "value": 0.12492638370599266,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-17T00:00:00",
+    "value": 0.5288713597289754,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-18T00:00:00",
+    "value": 0.2814331033021912,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-19T00:00:00",
+    "value": 0.0,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-20T00:00:00",
+    "value": 0.9812393536072117,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-21T00:00:00",
+    "value": 5.752415741572318,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-22T00:00:00",
+    "value": 7.0768281912081346,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-23T00:00:00",
+    "value": 9.359088243171568,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-24T00:00:00",
+    "value": 4.793809194404208,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-25T00:00:00",
+    "value": 6.877550228593388,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-26T00:00:00",
+    "value": 0.0,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-27T00:00:00",
+    "value": 0.17688451318183995,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-28T00:00:00",
+    "value": 2.3461199305616454,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-29T00:00:00",
+    "value": 0.2845796668533248,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-11-30T00:00:00",
+    "value": 0.603615158331337,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-01T00:00:00",
+    "value": 2.8545739250438564,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-02T00:00:00",
+    "value": 0.09422535718315975,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-03T00:00:00",
+    "value": 0.6039257129380454,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-04T00:00:00",
+    "value": 0.4815718551988963,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-05T00:00:00",
+    "value": 1.012629646926697,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-06T00:00:00",
+    "value": 0.779921176034385,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-07T00:00:00",
+    "value": 6.050937015694675,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-08T00:00:00",
+    "value": 4.7623008866864875,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-09T00:00:00",
+    "value": 5.707538525563389,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-10T00:00:00",
+    "value": 0.5132768881983137,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-11T00:00:00",
+    "value": 1.7271855267234695,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-12T00:00:00",
+    "value": 4.157195486740498,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-13T00:00:00",
+    "value": 7.123149608794028,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-14T00:00:00",
+    "value": 0.8601623329643444,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-15T00:00:00",
+    "value": 0.29529027755385473,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-16T00:00:00",
+    "value": 0.2828786357443657,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-17T00:00:00",
+    "value": 0.08451081385066092,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-18T00:00:00",
+    "value": 0.08958427348225133,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-19T00:00:00",
+    "value": 0.0888991996027266,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-20T00:00:00",
+    "value": 2.002246858330879,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-21T00:00:00",
+    "value": 0.6473735879694195,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-22T00:00:00",
+    "value": 0.361762528924753,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-23T00:00:00",
+    "value": 0.8101061792828903,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-24T00:00:00",
+    "value": 0.4964453314219918,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-25T00:00:00",
+    "value": 0.42699314899647833,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-26T00:00:00",
+    "value": 2.3803102263915656,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-27T00:00:00",
+    "value": 2.1187600850965125,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-28T00:00:00",
+    "value": 0.292103968656525,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-29T00:00:00",
+    "value": 0.49478751368959406,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-30T00:00:00",
+    "value": 1.7273955220807666,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  },
+  {
+    "date": "2025-12-31T00:00:00",
+    "value": 0.09473789526447286,
+    "unit": "mm/day",
+    "latitude": 41.65,
+    "longitude": -0.88
+  }
+]
