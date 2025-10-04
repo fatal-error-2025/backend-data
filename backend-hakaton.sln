@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36408.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "backend", "backend", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
+	ProjectSection(SolutionItems) = preProject
+		app.py = app.py
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "services", "services", "{7B69E14A-7CD1-4BDE-A6B1-099CDE3F5467}"
+	ProjectSection(SolutionItems) = preProject
+		weather_service.py = weather_service.py
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "repositories", "repositories", "{C3BFD4E3-F9FC-45C5-8C6A-3D3738E1D202}"
+	ProjectSection(SolutionItems) = preProject
+		weather_repository.py = weather_repository.py
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "data", "data", "{094B5CBE-F3F2-4B3D-971E-9A1537F40328}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "temperatura", "temperatura", "{F3813E79-D711-42C4-9141-2FA320355FE0}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "precipitaciones", "precipitaciones", "{4AC98C33-8B95-413F-BF97-D77A4F408F2B}"
+	ProjectSection(SolutionItems) = preProject
+		sample.json = sample.json
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tiempo", "tiempo", "{BFCE9A3A-06B0-4279-AAF0-658C670CD942}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7B69E14A-7CD1-4BDE-A6B1-099CDE3F5467} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{C3BFD4E3-F9FC-45C5-8C6A-3D3738E1D202} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{094B5CBE-F3F2-4B3D-971E-9A1537F40328} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{F3813E79-D711-42C4-9141-2FA320355FE0} = {094B5CBE-F3F2-4B3D-971E-9A1537F40328}
+		{4AC98C33-8B95-413F-BF97-D77A4F408F2B} = {094B5CBE-F3F2-4B3D-971E-9A1537F40328}
+		{BFCE9A3A-06B0-4279-AAF0-658C670CD942} = {094B5CBE-F3F2-4B3D-971E-9A1537F40328}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EC28CEF-F9EB-4E88-9C8D-F6A96238D093}
+	EndGlobalSection
+EndGlobal

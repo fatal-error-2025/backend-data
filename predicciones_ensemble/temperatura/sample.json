@@ -1,0 +1,13 @@
+﻿[
+  {
+    "date": "2025-01-01T00:00:00",
+    "value": 0.0,
+    "uncertainty": 0.0,
+    "lower_bound": 0.0,
+    "upper_bound": 0.0,
+    "unit": "unit",
+    "latitude": 0.0,
+    "longitude": 0.0,
+    "type": "sample"
+  }
+]
