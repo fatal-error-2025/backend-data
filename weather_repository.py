@@ -5,7 +5,7 @@ import json
 class WeatherRepository:
     def __init__(self, base_path="data"):
         self.base_path = base_path
-        self.categories = ["temperatura", "viento", "precipitaciones"]
+        self.categories = ["temperatura", "tiempo", "precipitaciones"]
 
     def get_data_for_category(self, category):
         path = os.path.join(self.base_path, category, "predictions_ensemble.json")
