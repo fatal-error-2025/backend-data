@@ -1,47 +1,44 @@
 ﻿from flask import Flask, jsonify, request
 import json
-import os
+from datetime import datetime
 
 app = Flask(__name__)
 
-# Función para cargar un JSON si existe
-def load_json(filename):
-    if os.path.exists(filename):
-        with open(filename, "r", encoding="utf-8") as f:
-            return json.load(f)
-    return []
+# Función para cargar los datos de un archivo JSON
+def cargar_json(ruta):
+    with open(ruta, "r", encoding="utf-8") as f:
+        return json.load(f)
 
-# Cargar datos de los tres JSON
-temperatura = load_json("temperatura.json")
-tiempo = load_json("tiempo.json")
-precipitaciones = load_json("precipitaciones.json")
+# Carga de datos
+precipitaciones = cargar_json("precipitaciones.json")
+temperaturas = cargar_json("temperatura.json")
+humedades = cargar_json("tiempo.json")
 
-@app.route("/")
-def index():
-    return "Backend funcionando ✅"
+# Función para filtrar por fecha
+def filtrar_por_fecha(datos, fecha_str):
+    resultados = []
+    for item in datos:
+        if item["date"].startswith(fecha_str):
+            resultados.append(item)
+    return resultados
 
 @app.route("/weather")
 def weather():
-    date = request.args.get("date")
-    if not date:
+    fecha = request.args.get("date")
+    if not fecha:
         return jsonify({"error": "Falta parámetro 'date'"}), 400
+    
+    # Extraemos solo la parte de la fecha (YYYY-MM-DD)
+    fecha_simple = fecha[:10]
 
-    # Filtrar cada dataset por la fecha exacta
-    temp_result = [t for t in temperatura if t.get("date") == date]
-    tiempo_result = [t for t in tiempo if t.get("date") == date]
-    precip_result = [p for p in precipitaciones if p.get("date") == date]
+    # Filtramos cada JSON
+    resultado = {
+        "precipitaciones": filtrar_por_fecha(precipitaciones, fecha_simple),
+        "temperaturas": filtrar_por_fecha(temperaturas, fecha_simple),
+        "humedades": filtrar_por_fecha(humedades, fecha_simple)
+    }
 
-    # Si no hay ningún resultado en ninguna categoría
-    if not (temp_result or tiempo_result or precip_result):
-        return jsonify({"error": "No se encontraron datos para esa fecha"}), 404
-
-    # Devolver todo junto
-    return jsonify({
-        "fecha": date,
-        "temperatura": temp_result,
-        "tiempo": tiempo_result,
-        "precipitaciones": precip_result
-    })
+    return jsonify(resultado)
 
 if __name__ == "__main__":
     app.run(debug=True)
