@@ -31,9 +31,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "precipitaciones", "precipit
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tiempo", "tiempo", "{BFCE9A3A-06B0-4279-AAF0-658C670CD942}"
-	ProjectSection(SolutionItems) = preProject
-		tiempo.json = tiempo.json
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
@@ -45,7 +42,6 @@ Global
 		{094B5CBE-F3F2-4B3D-971E-9A1537F40328} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 		{F3813E79-D711-42C4-9141-2FA320355FE0} = {094B5CBE-F3F2-4B3D-971E-9A1537F40328}
 		{4AC98C33-8B95-413F-BF97-D77A4F408F2B} = {094B5CBE-F3F2-4B3D-971E-9A1537F40328}
-		{BFCE9A3A-06B0-4279-AAF0-658C670CD942} = {094B5CBE-F3F2-4B3D-971E-9A1537F40328}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1EC28CEF-F9EB-4E88-9C8D-F6A96238D093}
