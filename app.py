@@ -1,30 +1,47 @@
 ﻿from flask import Flask, jsonify, request
-from flask_cors import CORS
 import json
+import os
 
 app = Flask(__name__)
-CORS(app, origins=["http://localhost:5173"])  # 👈 habilitar CORS para todas las rutas
 
-# Cargar JSON de precipitaciones
-with open("sample.json", "r", encoding="utf-8") as f:
-    data = json.load(f)
+# Función para cargar un JSON si existe
+def load_json(filename):
+    if os.path.exists(filename):
+        with open(filename, "r", encoding="utf-8") as f:
+            return json.load(f)
+    return []
+
+# Cargar datos de los tres JSON
+temperatura = load_json("sample.json")
+tiempo = load_json("sample.json")
+precipitaciones = load_json("sample.json")
 
 @app.route("/")
 def index():
     return "Backend funcionando ✅"
 
-@app.route("/precipitaciones")
-def precipitaciones():
+@app.route("/weather")
+def weather():
     date = request.args.get("date")
     if not date:
         return jsonify({"error": "Falta parámetro 'date'"}), 400
 
-    result = [p for p in data if p.get("date") == date]
+    # Filtrar cada dataset por la fecha exacta
+    temp_result = [t for t in temperatura if t.get("date") == date]
+    tiempo_result = [t for t in tiempo if t.get("date") == date]
+    precip_result = [p for p in precipitaciones if p.get("date") == date]
 
-    if not result:
+    # Si no hay ningún resultado en ninguna categoría
+    if not (temp_result or tiempo_result or precip_result):
         return jsonify({"error": "No se encontraron datos para esa fecha"}), 404
 
-    return jsonify(result)
+    # Devolver todo junto
+    return jsonify({
+        "fecha": date,
+        "temperatura": temp_result,
+        "tiempo": tiempo_result,
+        "precipitaciones": precip_result
+    })
 
 if __name__ == "__main__":
     app.run(debug=True)
