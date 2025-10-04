@@ -30,9 +30,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "precipitaciones", "precipit
 		precipitaciones.json = precipitaciones.json
 	EndProjectSection
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tiempo", "tiempo", "{BFCE9A3A-06B0-4279-AAF0-658C670CD942}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "viento", "viento", "{BFCE9A3A-06B0-4279-AAF0-658C670CD942}"
 	ProjectSection(SolutionItems) = preProject
-		tiempo.json = tiempo.json
+		viento.json = viento.json
 	EndProjectSection
 EndProject
 Global

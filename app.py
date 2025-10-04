@@ -12,7 +12,7 @@ def cargar_json(ruta):
 # Carga de datos
 precipitaciones = cargar_json("precipitaciones.json")
 temperaturas = cargar_json("temperatura.json")
-humedades = cargar_json("tiempo.json")
+vientos = cargar_json("viento.json")
 
 # Función para filtrar por fecha
 def filtrar_por_fecha(datos, fecha_str):
@@ -35,7 +35,7 @@ def weather():
     resultado = {
         "precipitaciones": filtrar_por_fecha(precipitaciones, fecha_simple),
         "temperaturas": filtrar_por_fecha(temperaturas, fecha_simple),
-        "humedades": filtrar_por_fecha(humedades, fecha_simple)
+        "vientos": filtrar_por_fecha(vientos, fecha_simple)
     }
 
     return jsonify(resultado)
